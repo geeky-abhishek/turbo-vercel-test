@@ -3,7 +3,7 @@ title: Samagra Documentation
 sidebar_label: Overview
 slug: /
 hide_table_of_contents: true
-demoUrl: https://samagra-docs.vercel.app/
+demoUrl: https://turbo-vercel-testjjjj.vercel.app/
 demoSourceUrl: https://github.com/Samagra-Development/samagra-docs
 ---
 
