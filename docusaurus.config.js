@@ -10,7 +10,7 @@ module.exports = {
   title: 'Samagra Documentation',
   tagline:
     'tag line',
-  url: 'https://samagra-docs.vercel.app/',
+  url: 'https://turbo-vercel-testjjjj.vercel.app/',
   baseUrl: `/`,
   i18n: {
     defaultLocale: 'en',
