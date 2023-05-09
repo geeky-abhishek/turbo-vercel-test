@@ -11,7 +11,7 @@ module.exports = {
   tagline:
     'tag line',
   url: 'https://samagra-docs.vercel.app/',
-  baseUrl: `${BASE_URL}/`,
+  baseUrl: `/`,
   i18n: {
     defaultLocale: 'en',
     locales: ['en', 'ja'],
